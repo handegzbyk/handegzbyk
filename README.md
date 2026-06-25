@@ -77,15 +77,14 @@ My interests include:
 
 ## Featured Projects
 
-- **Developing enterprise data management applications using C#, WPF, Blazor, and SQL Server, with a focus on building scalable, user-friendly business solutions. ⭐
+- **Developing enterprise data management applications** using C#, WPF, Blazor, and SQL Server, with a focus on building scalable, user-friendly business solutions. ⭐
 - **Student Records Web App** — CRUD system deployed on AWS.
-- **Built Java-based applications covering data analysis, encryption, recommendation systems, and text generation.
+- **Built Java-based Applications** covering data analysis, encryption, recommendation systems, and text generation.
 - **Traffic Detection with YOLO** — Real-time object detection for autonomous vehicle context.
 - **Weather Data ML Project** — Supervised and unsupervised learning on weather datasets.
 - **Friend Recommendation System** — C++ recommendation system applied multi threading using social interaction data.
 - **Parallel Graph Coloring** — OpenMP/MPI-based graph algorithms.
-- **Multi-page web application developed using vanilla JavaScript and Browser APIs.
-- **Highly available and scalable infrastructure designed with AWS.
+- **Multi-page web application** developed using vanilla JavaScript and Browser APIs.
 
 
 # 🌱 Currently Learning
